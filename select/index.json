@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "LOST",
   "base_artist": "Kaneee",
-  "createdAt": "2025-12-15T14:48:05.204516Z",
+  "createdAt": "2026-03-25T08:34:51.875324Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "Kaneee",
       "has_synced": false,
       "path": "select/pl_01_LOST_Kaneee.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "LOST",
+      "artist": "Kaneee",
+      "has_synced": false,
+      "path": "select/localdb_01_LOST_Kaneee.txt",
+      "repo_name": "47zMhMZfg5M"
     }
   ]
 }
